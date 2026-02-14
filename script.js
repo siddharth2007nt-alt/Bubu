@@ -1,8 +1,8 @@
 let step = 0;
 
 const data = [
-  { img: "love1.jpg", text: "YE TERA FAV PHOTO ❤️" },
-  { img: "love2.jpg", text: "Every moment with you is my favorite memory ✨" },
+  { img: "l.jpg", text: "YE TERA FAV PHOTO ❤️" },
+  { img: "l.jpg", text: "Every moment with you is my favorite memory ✨" },
   { img: "love3.jpg", text: "You are always mine and forever 💖" },
   { img: "love4.jpg", text: "kya sahi christmas tha 🌸" },
   { img: "love5.jpg", text: "Forever grateful for you 💕" }
