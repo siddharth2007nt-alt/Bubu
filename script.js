@@ -1,11 +1,11 @@
 let step = 0;
 
 const data = [
-  { img: "myphoto/love1.jpg", text: "YE TERA FAV PHOTO ❤️" },
-  { img: "myphoto/love2.jpg", text: "Every moment with you is my favorite memory ✨" },
-  { img: "myphoto/love3.jpg", text: "You are always mine and forever 💖" },
-  { img: "myphoto/love4.jpg", text: "kya sahi christmas tha 🌸" },
-  { img: "myphoto/love5.jpg", text: "Forever grateful for you 💕" }
+  { img: "love1.jpg", text: "YE TERA FAV PHOTO ❤️" },
+  { img: "love2.jpg", text: "Every moment with you is my favorite memory ✨" },
+  { img: "love3.jpg", text: "You are always mine and forever 💖" },
+  { img: "love4.jpg", text: "kya sahi christmas tha 🌸" },
+  { img: "love5.jpg", text: "Forever grateful for you 💕" }
 ];
 
 function showNext() {
