@@ -3,11 +3,11 @@ document.addEventListener("DOMContentLoaded", function(){
 let stepAb = 0;
 
 const angryBirdData = [
-  { img: "myphoto/love10.jpg", text: "You make me smile every day 😎" },
-  { img: "myphoto/love9.jpg", text: "Little moments are the best 💛" },
-  { img: "myphoto/love8.jpg", text: "Always thinking of you 💖" },
-  { img: "myphoto/love7.jpg", text: "You’re my happy place 🌸" },
-  { img: "myphoto/love6.jpg", text: "Forever love 💕" }
+  { img: "love10.jpg", text: "You make me smile every day 😎" },
+  { img: "love9.jpg", text: "Little moments are the best 💛" },
+  { img: "love8.jpg", text: "Always thinking of you 💖" },
+  { img: "love7.jpg", text: "You’re my happy place 🌸" },
+  { img: "love6.jpg", text: "Forever love 💕" }
 ];
 
 const abButton = document.getElementById("abBtn");
